@@ -2,11 +2,6 @@
 
 > 一个简单的消息管理系统
 
-[教程地址](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
-
-
-![demo GIF](https://ooo.0o0.ooo/2016/12/08/58494afc547d1.gif)
-
 ## 命名空间
 ```
 //摘自官网
@@ -135,4 +130,9 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+[教程地址](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
+
+
+![demo GIF](https://ooo.0o0.ooo/2016/12/08/58494afc547d1.gif)
 
