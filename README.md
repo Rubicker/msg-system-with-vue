@@ -4,7 +4,8 @@
 
 [教程地址](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 
-![12.gif](https://ooo.0o0.ooo/2016/12/08/58494afc547d1.gif)
+
+![demo GIF](https://ooo.0o0.ooo/2016/12/08/58494afc547d1.gif)
 
 ## 命名空间
 ```
