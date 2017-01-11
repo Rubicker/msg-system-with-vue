@@ -3,7 +3,7 @@
 > 一个简单的消息管理系统
 
 ## 命名空间
-```
+```js
 //摘自官网
 
 // types.js
@@ -40,7 +40,7 @@ const todosModule = {
 ```
 __以及@jxlarrea的命名空间方法__：
 
-```
+```js
 // namespace.js helper utility
 
 function mapValues (obj, f) {
@@ -64,7 +64,7 @@ export default (module, types) => {
     return newObj;
 }
 ```
-```
+```js
 // types.js
 
 import namespace from 'utils/namespace'
@@ -82,7 +82,7 @@ export default namespace('auth', {
 })
 
 ```
-```
+```js
 //module.js
 
 import * as accountApi from 'api/account'
